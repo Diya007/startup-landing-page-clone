@@ -3,14 +3,13 @@
 body {
 	background-color: LightGray;
 }
-div {
-	border: 1px solid Chocolate;
-}
+
 .top-navigation{
 	background-color: #fff;
+	border:1px solid Chocolate;
 }
 .top-navigation>.content{
-	width:970px;
+	width:700px;
 	height: 70px;
 	margin:0 auto;
 }
@@ -22,13 +21,15 @@ color: #838994;
 letter-spacing: 0.03em;
 margin-top:25px;
 -webkit-font-smoothing: antialiased;
+padding-left: 0;
 }
-.top-navigation .link li {
+.top-navigation .links li {
 	display: inline-block;
-	margin-left: 25px;
+	padding-left:40px;
 }
 .logo{
 	padding:0px 15px;
+	margin-top: 15px;
 }
 li{
 display: inline-block;
