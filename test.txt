@@ -1,4 +1,7 @@
 
-bolder fonts
-fonts
+margin: 0 auto; margin, border, content;
+Box sizing;
+developer tool <h3> font weight bold;
+why h3 changed when h1 changes?
+
 
