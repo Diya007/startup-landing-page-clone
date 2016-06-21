@@ -43,3 +43,10 @@ display: inline-block;
 	cursor:pointer;
 	color:#333333;
 }
+
+.introduction {
+	background-image:url('Documents/projects/startup-landing-page-clone/images/first-background.jpg');
+	background-position: center bottom;
+	background-repeat: no-repeat;
+	background-size:cover
+	heigth:45.938rem;
