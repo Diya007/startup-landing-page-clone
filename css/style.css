@@ -147,6 +147,8 @@ h5 {
     -webkit-margin-after: 1.67em;
     -webkit-margin-start: 0px;
     -webkit-margin-end: 0px;
+    font-weight: normal;
+    font-size: 100%;
 }
 .social .icons > li{
 display: inline-block;
