@@ -1,12 +1,10 @@
 
-margin: 0 auto; margin, border, content;
-Box sizing, border box;
+
+hr 
+footer position 
+
+console err0 Mixed Content: The page at 'https://diya007.github.io/startup-landing-page-clone/' was loaded over HTTPS, but requested an insecure stylesheet 'http://fonts.googleapis.com/css?family=Roboto:400,500,300'. This request has been blocked; the content must be served over HTTPS.
 
 
-developer tool <h3> font weight bold;
-why h3 changed when h1 changes?
-text align;
-introduction computed karma 1382*608 vs 1382*735
-pictures not same;
 
 
