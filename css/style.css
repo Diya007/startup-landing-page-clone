@@ -151,6 +151,11 @@ h5 {
     -webkit-margin-end: 0px;
     font-weight: normal;
     font-size: 100%;
+    margin: 0;
+}
+ul {
+	padding-left: 0px;
+	margin-top: 0px;
 }
 .social .icons > li{
 display: inline-block;
